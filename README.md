@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Reeshu Katiyar
 
-<!--
-**reeshukatiyar34-lab/reeshukatiyar34-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student | Aspiring Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student who enjoys learning programming and exploring new technologies. I'm currently building my skills in C, C++, Java, Python, and Shell Scripting.
+
+🛠️ Skills & Technologies
+
+- 💻 C
+- ⚡ C++
+- ☕ Java
+- 🐍 Python
+- 🐚 Shell Scripting
+- 📚 Data Structures & Algorithms
+- 🔍 Searching & Sorting
+
+🌱 Currently Learning
+
+- Programming Fundamentals
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
+
+🎯 My Goals
+
+- Improve my programming skills
+- Build useful projects
+- Learn new technologies
+- Contribute to open-source projects
+
+📌 Featured Projects
+
+I'm currently working on building projects and will be adding them here soon!
+
+📫 Connect With Me
+
+- 💼 GitHub: Reeshu Katiyar
+- 📧 Email: Add your email here
+
+---
+
+⭐ Thanks for visiting my profile!
